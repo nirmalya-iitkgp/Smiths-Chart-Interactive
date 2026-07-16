@@ -1,0 +1,6 @@
+{
+  "name": "Smith Chart Interactive Lab",
+  "description": "An interactive, high-fidelity educational simulator for Smith Charts, transmission lines, and impedance matching networks with zero external AI dependencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

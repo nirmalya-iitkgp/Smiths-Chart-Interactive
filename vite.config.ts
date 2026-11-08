@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Smiths-Chart-Interactive/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
